@@ -11,4 +11,4 @@ PIC code used in v1: https://github.com/sebknzl/saturnmod
 The Arduino code for v2 and v3 was based on this project:
 https://github.com/SukkoPera/MegaDrivePlusPlus
 
-Due to some bugs related to the internal oscillator the Arduino code was never finished.
+Due to some bugs related to the Atmega328P internal oscillator the Arduino code was never finished.
