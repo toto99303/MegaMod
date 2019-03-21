@@ -12,3 +12,6 @@ The Arduino code for v2 and v3 was based on this project:
 https://github.com/SukkoPera/MegaDrivePlusPlus
 
 Due to some bugs related to the Atmega328P internal oscillator the Arduino code was never finished.
+
+The audio part of the mod is based on the circuits posted in this forum by Ace (MegaAmp):
+http://www.sega-16.com/forum/showthread.php?26568-Introducing-the-Mega-Amp-The-universal-Genesis-audio-circuit
